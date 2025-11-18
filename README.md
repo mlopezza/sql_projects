@@ -3,9 +3,9 @@
     ├── data
     ├──── processed
     ├──── raw
-    ├── notebooks
     ├── images
     ├── models
+    ├── notebooks
     ├── reports
     ├── src
     ├── README.md
